@@ -18,7 +18,7 @@ branco: #8DA1AE;
 
 body,
 html {
-  background-color:#59A0BC;
+  background-color: #59a0bc;
   height: 100vh;
   width: 100vw;
 }
@@ -60,9 +60,8 @@ section#login > div#formulario {
 div#formulario > h1 {
   text-align: center;
   margin-bottom: 10px;
-
 }
 
-div#formulario > p{
+div#formulario > p {
   font-size: 0.8em;
 }
