@@ -3,6 +3,9 @@
 /* Paleta de cores
 Verde: #49a09d;
 Lílas: #5f2c82;
+
+azul: #59A0BC;
+branco: #8DA1AE;
  */
 
 * {
@@ -15,7 +18,7 @@ Lílas: #5f2c82;
 
 body,
 html {
-  background-color: #5f2c82;
+  background-color:#59A0BC;
   height: 100vh;
   width: 100vw;
 }
