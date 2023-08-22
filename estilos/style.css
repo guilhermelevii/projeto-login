@@ -43,6 +43,7 @@ html {
 
 .fontbotao {
   font-family: "Geologica", sans-serif;
+  
 }
 main {
   position: relative;
@@ -155,6 +156,7 @@ form > a.botao {
   border-radius: 6px;
   color: white;
   text-decoration: none;
+  
   
 }
 
