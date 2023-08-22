@@ -16,7 +16,7 @@ Grandes telas: acima de 1200px *
 
   section#login {
     width: 80vw;
-    height: 290px;
+    height: 297px;
   }
 
   section#login > div#imagem {
@@ -29,10 +29,6 @@ Grandes telas: acima de 1200px *
     float: right;
     width: 70%;
   }
-
- 
-
- 
 }
 
 /* Versão Desktop */
@@ -65,7 +61,4 @@ Grandes telas: acima de 1200px *
     font-size: 1em;
     margin: 10px 0px;
   }
-
-
- 
 }
