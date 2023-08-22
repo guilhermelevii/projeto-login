@@ -99,7 +99,7 @@ div.campo > input {
 }
 
 div.campo > input:focus-within {
-  background-color: white;
+  background-color:#d4eeff;
   border: none;
 }
 
