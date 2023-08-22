@@ -32,13 +32,12 @@ html {
 }
 
 .font {
-  font-family: "Martian Mono", monospace;
+  
   
 }
 
 .fontinput {
-  font-family: "Martian Mono", monospace;
-  font-size: xx-small;
+ 
 }
 
 .fontbotao {
@@ -85,6 +84,7 @@ div#formulario > h1 {
 
 div#formulario > p {
   font-size: 0.8em;
+  margin-bottom: 20px;
 }
 
 form > div.campo {
