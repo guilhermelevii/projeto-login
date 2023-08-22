@@ -25,24 +25,25 @@ html {
   width: 100vw;
 }
 
-.font {
-  font-family: "Martian Mono", monospace;
-  font-size: small;
+.fontlogin {
+  font-family: "Permanent Marker", cursive;
+  font-size: xx-large;
+  font-weight: lighter;
 }
 
-.fontlogin{
-  font-family: 'Lobster', cursive;
-  
+.font {
+  font-family: "Martian Mono", monospace;
   
 }
 
 .fontinput {
   font-family: "Martian Mono", monospace;
   font-size: xx-small;
-  font-weight: 300;
-  
 }
 
+.fontbotao {
+  font-family: "Martian Mono", monospace;
+}
 main {
   position: relative;
   height: 100vh;
