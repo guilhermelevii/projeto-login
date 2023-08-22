@@ -62,12 +62,11 @@ Grandes telas: acima de 1200px *
     margin: 10px 0px;
   }
 
-  form > div.campo{
+  form > div.campo {
     margin-bottom: 15px;
   }
 
-  form > input[type="submit"]{
+  form > input[type="submit"] {
     margin-top: 20px;
   }
-
 }

@@ -43,7 +43,6 @@ html {
 
 .fontbotao {
   font-family: "Geologica", sans-serif;
-  
 }
 main {
   position: relative;
@@ -120,7 +119,6 @@ div.campo > input {
   border-radius: 8px;
   padding: 4px;
   transform: translateY(-12px);
-  
 }
 
 div.campo > input:focus-within {
@@ -156,8 +154,6 @@ form > a.botao {
   border-radius: 6px;
   color: white;
   text-decoration: none;
-  
-  
 }
 
 form > a.botao:hover {
