@@ -135,6 +135,7 @@ form > a.botao {
   text-decoration: none;
 }
 
-form > a.botao > i {
-  font-size: 0.9em;
+form > a.botao:hover{
+  background-color: black;
+  color: white;
 }
